@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Shreya Roy — Frontend Developer specializing in React.js and JavaScript" width="100%" />
+  <img src="./assets/banner.png" alt="Shreya Roy — Frontend Developer specializing in React.js and JavaScript" width="100%" />
 </p>
 
 <p align="center">
